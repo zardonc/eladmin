@@ -190,3 +190,5 @@ eladmin-system/eladmin-system.iml
 eladmin-tools/eladmin-tools.iml
 eladmin.iml
 eladmin_test/src/
+/.idea/
+eladmin_test/eladmin_test.iml
